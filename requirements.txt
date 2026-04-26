@@ -7,4 +7,4 @@ pillow
 addict
 matplotlib
 torchvision
-
+einops
