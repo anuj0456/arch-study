@@ -8,7 +8,10 @@ MODEL_NAMES = {
     "H2O": "h2oai/h2ovl-mississippi-2b",
     "GVLab": "OpenGVLab/InternVL2-1B",
     "Qwen": "Qwen/Qwen-VL",
+    "Microsoft_0": "microsoft/Phi-3.5-vision-instruct",
     "Microsoft": "microsoft/phi-4",
+    "Deepseek_0": "deepseek-ai/DeepSeek-OCR",
+    "Deepseek": "deepseek-ai/DeepSeek-OCR-2"
 }
 
 
