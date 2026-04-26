@@ -8,3 +8,4 @@ addict
 matplotlib
 torchvision
 einops
+easydict
