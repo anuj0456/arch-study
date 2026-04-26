@@ -3,3 +3,8 @@ torch
 openpyxl
 pandas
 graphviz
+pillow
+addict
+matplotlib
+torchvision
+
