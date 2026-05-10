@@ -6,7 +6,7 @@ import torch.utils.checkpoint as checkpoint
 
 from transformers.modeling_utils import PreTrainedModel
 from transformers.modeling_outputs import CausalLMOutput, BaseModelOutput
-from kv_model.config import KiteFishConfig
+from kf_model.config import KiteFishConfig
 
 
 class KiteFishAttention(nn.Module):

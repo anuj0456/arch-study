@@ -1,6 +1,6 @@
 from transformers import AutoConfig, AutoModel, AutoModelForCausalLM
-from kv_model.config import KiteFishConfig
-from kv_model.model import KiteFishModel, KiteFishForCausalLM
+from kf_model.config import KiteFishConfig
+from kf_model.model import KiteFishModel, KiteFishForCausalLM
 
 
 
